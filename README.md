@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I was taking jiu jiutsu classes but stopped due to increasing fees. Will sign up again in the future.
+- ⚡ Fun fact: I enjoy surfing, strength-training, learning martial arts, and spending time with family.
 
 <!--
 **JorgeBonillaSD/JorgeBonillaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
