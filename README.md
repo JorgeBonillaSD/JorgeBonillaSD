@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working in the banking industry as a data scientist.
-- 🌱 I’m currently learning about recommender systems, generative AI, and graph machine learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: email
-- ⚡ Fun fact: I enjoy surfing, strength-training, learning martial arts, and spending time with family.
+I am currently a data scientist at Axos Bank, where I focus on developing recommendation systems, experimental frameworks, and generative AI models to improve customer service.
+
+I completed my master's degree in information and data science at the University of California, Berkeley, where I focused on developing statistical models for discrete response, time series analysis, machine learning systems at scale, and generative AI. My studies culminated with a capstone project to prevent mechanical failures in industrial settings with audio-based anomaly detection systems.
+
+My areas of active research span a broad interest in machine learning and deep learning, particularly their applications in finance and customer behavior-related problems.
+
+Outside of work, I enjoy surfing, high-intensity strength training, learning various forms of martial arts, and spending time with my wife and daughter.
 
 <!--
 **JorgeBonillaSD/JorgeBonillaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
