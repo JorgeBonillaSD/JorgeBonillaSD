@@ -6,7 +6,7 @@ I completed my master's degree in information and data science at the University
 
 My areas of active research span a broad interest in machine learning and deep learning, particularly their applications in finance and customer behavior-related problems.
 
-Outside of work, I enjoy surfing, high-intensity strength training, learning various forms of martial arts, and spending time with my wife and daughter.
+Outside of work, I enjoy surfing, high-intensity strength training, martial arts, and spending time with my wife and daughter.
 
 <!--
 **JorgeBonillaSD/JorgeBonillaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
