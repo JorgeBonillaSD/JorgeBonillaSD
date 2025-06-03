@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am currently a data scientist at Axos Bank, where I focus on developing recommendation systems, experimental frameworks, and generative AI models to improve customer service.
+I am currently a data scientist at Axos Bank, where I focus on developing recommendation systems, experimental frameworks, and generative AI models to improve customer service. Previously, I worked at Qualcomm, Calpine Energy Solutions, and FinanceDTA where I worked on projects spanning graph machine learning, energy forecasting, anomaly detection systems, and public finance consulting.
 
 I completed my master's degree in information and data science at the University of California, Berkeley, where I focused on developing statistical models for discrete response, time series analysis, machine learning systems at scale, and generative AI. My studies culminated with a capstone project to prevent mechanical failures in industrial settings with audio-based anomaly detection systems. I also hold a bachelor's degree in quantitative economics from the University of California, Irvine. My undergraduate thesis, advised by Dr. Marianne Bitler, analyzed the effects of corporate income taxes on small businesses in the United States.
 
 My areas of active research span a broad interest in machine learning and deep learning, particularly their applications in finance and customer behavior-related problems.
 
-Outside of work, I enjoy surfing, high-intensity strength training, martial arts, and spending time with my wife and daughter.
+Outside of work I enjoy surfing, high-intensity strength training, martial arts, and spending time with my wife and children.
 
 <!--
 **JorgeBonillaSD/JorgeBonillaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
